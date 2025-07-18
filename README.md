@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hola, soy Juan Diego.
+  Estudiante de Desarrollo de Software
+
+
+### GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juan%20Diego22&theme=dark&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
