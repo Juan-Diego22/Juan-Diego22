@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Mi portada](https://github.com/Juan-Diego22/Juan-Diego22/blob/main/Portada.png)
+![Mi portada](https://github.com/Juan-Diego22/Juan-Diego22/blob/main/PortadaDiego.png)
 
  Hey, I'm Juan Diego!
 
