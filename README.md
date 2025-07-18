@@ -1,4 +1,4 @@
-![Juan Diego Lopez - Estudiante Desarrollo de Software](images/portada-github-juan-diego.png)
+
 
 <!--
 **Juan-Diego22/Juan-Diego22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
