@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hola, soy Juan Diego.
-  Estudiante de Desarrollo de Software
+ Hey, I'm Juan Diego!
 
+* Techstack: Python - MySQL
 
 ### GitHub Stats
 
