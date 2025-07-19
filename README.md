@@ -19,7 +19,10 @@ Here are some ideas to get you started:
  Hey, I'm Juan Diego!
 
 * Techstack: Python - MySQL
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo"/>
+</p>
 ### GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juan%20Diego22&theme=dark&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
