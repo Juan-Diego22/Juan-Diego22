@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juan%20Diego22&theme=transparent&hide_border=&short_numbers=)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juan%20Diego22&theme=dark&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
+
