@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
  Hey, I'm Juan Diego!
 
-### Junior Full-Stack Developer | React • Django • Python | Colombia 🇨🇴
+### Junior Full-Stack Developer | React • Django • Python | Colombia
 
 🔭 Actualmente construyendo una app traductora en tiempo real con React  
 🌱 Aprendiendo React avanzado, buenas prácticas y arquitectura limpia  
@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 * Techstack:
 <p align="left">
-  
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" alt="Django logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript logo"/>
