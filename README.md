@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 🔭 Currently building a **real-time language translator app** with React  
 🌱 Learning advanced React, clean architecture, and best practices  
 👨‍💻 All my projects are available on this profile  
-📫 How to reach me: lopez222@hotmail.com • [LinkedIn](https://www.linkedin.com/in/juan-diego-lopez-carvajal-5079462bb)
+
 
 ### Tech Stack
 <p align="left">
