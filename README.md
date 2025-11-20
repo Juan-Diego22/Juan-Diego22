@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 🔭 Actualmente construyendo una app traductora en tiempo real con React  
 🌱 Aprendiendo React avanzado, buenas prácticas y arquitectura limpia  
 
-### Proyectos destacados
-- [Netflix Clone con Django] → Autenticación, streaming simulado, responsive → [Live Demo](link) | [Repo](link)
-- [Proyecto 2 - Nombre] → Descripción corta en 1 línea → [Live] | [Repo]
-- [Proyecto 3 - Nombre] → Descripción corta → [Live] | [Repo]
 
 * Techstack:
 <p align="left">
