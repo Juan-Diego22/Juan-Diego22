@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Junior Full-Stack Developer | React • Django • Python | Colombia 🇨🇴
 
 🔭 Currently building a **real-time language translator app** with React  
-🌱 Learning advanced React, clean architecture, and best practices  
+🌱 Learning  React, clean architecture, and best practices  
 👨‍💻 All my projects are available on this profile  
 
 
