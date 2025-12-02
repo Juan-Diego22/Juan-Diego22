@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 ### GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juan-Diego22&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-Open to **remote junior opportunities**! 🚀 #OpenToWork
+
