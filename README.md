@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 # Hi there 👋, I'm Juan Diego López 
 
 ### Junior Full-Stack Developer | React • Django • Python | Colombia 🇨🇴
-
-🔭 Currently building a **real-time language translator app** with React  
+  
 🌱 Learning  React, clean architecture, and best practices  
 👨‍💻 All my projects are available on this profile  
 
