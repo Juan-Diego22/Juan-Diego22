@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Cover](https://github.com/Juan-Diego22/Juan-Diego22/blob/main/PortadaDiego.png)
+![Cover](https://github.com/Juan-Diego22/Juan-Diego22/blob/main/juanSoftware.jpeg)
 
 <h1 align="center">Hi there 👋, I'm Juan Diego López</h1>
 
