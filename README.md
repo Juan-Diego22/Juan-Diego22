@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 🚀 About Me
 - 🌱 I’m currently expanding my stack on **React**, **Python (Django/Flask)**, and modern **AI & Automation workflows (MCP / Agents)**.
 - 👨‍💻 All my projects and repositories are available on this profile.
-- 🇨🇴 Based in Medellín, Colombia.
+-  Medellín, Colombia.
 
 ---
 
