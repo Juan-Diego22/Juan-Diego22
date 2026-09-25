@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋, I'm Juan Diego López</h1>
 
-<p align="center">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://tu-portafolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=todoist&logoColor=white" alt="Portfolio Badge"/></a>
-</p>
-
 ### 🚀 About Me
 - 🌱 I’m currently expanding my stack on **React**, **Python (Django/Flask)**, and modern **AI & Automation workflows (MCP / Agents)**.
 - 👨‍💻 All my projects and repositories are available on this profile.
