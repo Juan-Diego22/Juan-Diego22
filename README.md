@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks:**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,flask,js,react,html,css" />
 </p>
 
 **Databases & Tools:**
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,githubactions,docker,vscode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="40" height="40" alt="SonarQube"/>
 </p>
