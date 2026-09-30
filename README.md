@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 **Databases & Tools:**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,githubactions,docker,vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50" height="50" alt="SonarQube"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="45" height="45" alt="SonarQube"/>
 </p>
 
 ---
