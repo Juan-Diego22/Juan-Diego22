@@ -28,18 +28,14 @@ Here are some ideas to get you started:
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks:**
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,js,react,html,css" />
 </p>
 
 **Databases & Tools:**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,githubactions,docker,vscode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="40" height="40" alt="SonarQube"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
 </p>
 
 ---
